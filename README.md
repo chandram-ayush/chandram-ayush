@@ -1,4 +1,4 @@
-![MasterHead](backgroundgit.png)
+![MasterHead](backgrndgit.jpg)
 
 
 <h1 align="center">
