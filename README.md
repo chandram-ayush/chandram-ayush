@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandram</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=[fadeIn&type=waving&color=gradient&height=100](https://www.pinterest.com/pin/demon-slayer-kimetsu-no-yaiba-gif-demon-slayer-kimetsu-no-yaiba-rengoku-discover-share-gifs--878905683499103560/)"/>
-</p>
 <h3 align="center">Empowering Innovation Through Machine Learning Expertise: Bridging Frontend Development with Data-Driven Solutions</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandram-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="chandram-ayush" /> </p>
 
 - 🔭 I’m currently working on **PollutionMapper: Tackling air pollution.**
 
