@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **PollutionMapper: Tackling air pollution.**
 
-- 📫 How to reach me **chandram.ayush@gmail.com**
+- 📫 How to reach me **chandram.ayushwork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jnmwYUNctPPjZ6IzHovljWRbFQw3vWGG/view?usp=sharing](https://drive.google.com/file/d/1jnmwYUNctPPjZ6IzHovljWRbFQw3vWGG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jnmwYUNctPPjZ6IzHovljWRbFQw3vWGG/view?usp=sharing)
 
-- ⚡ Fun fact **Building bridges between Civil Engineering and Machine Learning - proving that my true passion lies in coding algorithms, not just constructing them!**
+- ⚡ Fun fact: **Building bridges between Civil Engineering and Machine Learning - proving that my true passion lies in coding algorithms, not just constructing them!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
